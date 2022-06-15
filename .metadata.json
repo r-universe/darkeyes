@@ -1,0 +1,26 @@
+[
+  {
+    "package": "BiCausality",
+    "oncran": true
+  },
+  {
+    "package": "EDOIF",
+    "oncran": true
+  },
+  {
+    "package": "ipADMIXTURE",
+    "oncran": true
+  },
+  {
+    "package": "mFLICA",
+    "oncran": true
+  },
+  {
+    "package": "MRReg",
+    "oncran": true
+  },
+  {
+    "package": "VLTimeCausality",
+    "oncran": true
+  }
+]
