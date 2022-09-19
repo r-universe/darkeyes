@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "mFLICA",
-    "oncran": true
-  },
-  {
     "package": "MRReg",
     "oncran": true
   },

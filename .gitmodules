@@ -18,11 +18,6 @@
 	url = https://github.com/darkeyes/ipadmixture
 	shallow = true
 	registered = true
-[submodule "mFLICA"]
-	path = mFLICA
-	url = https://github.com/darkeyes/mflica
-	shallow = true
-	registered = true
 [submodule "MRReg"]
 	path = MRReg
 	url = https://github.com/darkeyes/mrreg
