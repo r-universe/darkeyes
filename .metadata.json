@@ -1,9 +1,5 @@
 [
   {
-    "package": "BiCausality",
-    "oncran": true
-  },
-  {
     "package": "EDOIF",
     "oncran": true
   },
@@ -16,11 +12,15 @@
     "oncran": true
   },
   {
+    "package": "VLTimeCausality",
+    "oncran": true
+  },
+  {
     "package": "MRReg",
     "oncran": true
   },
   {
-    "package": "VLTimeCausality",
+    "package": "BiCausality",
     "oncran": true
   }
 ]
